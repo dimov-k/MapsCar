@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MapsCar</string>
+    <string name="btn_list_position">Список маркеров</string>
+
+    <string name="item_list_title">Title</string>
+    <string name="item_list_info">Info</string>
+    <string name="current_position">Текущая позиция</string>
+    <string name="stop_car">Stop car</string>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="little">4dp</dimen>
+    <dimen name="medium">8dp</dimen>
+    <dimen name="high">16dp</dimen>
+
+    <dimen name="item_list_position_margin">@dimen/little</dimen>
+    <dimen name="text_margin">@dimen/medium</dimen>
+
+    <dimen name="padding">16dp</dimen>
+
+    <dimen name="item_list_marginEnd">40dp</dimen>
+    <dimen name="button_to_list_markets_width">215dp</dimen>
+    <dimen name="button_to_list_markets_height">44dp</dimen>
+</resources>
